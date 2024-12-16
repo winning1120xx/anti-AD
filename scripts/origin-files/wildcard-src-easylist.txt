@@ -1,4 +1,5 @@
 ||*.feipukeplus.com^$domain=m.qqm4.com
+||*.top^$domain=ltswu.org
 ||*.wap.xsbiquge.com^
 ||*serror*.wo.com.cn^
 ||a*.chajiaotong.com^
@@ -14,17 +15,13 @@
 ||asd8900.oss-*.aliyuncs.com^
 ||at*.doubanio.com^
 ||ax.*.ifeng.com^
-||bd*-ys.km.com^
 ||bdcpro*.techweb.com.cn^
 ||bdlm*.hc360.com^
 ||bj*.9669.cn^
 ||cas.*.criteo.com^
-||cas.*.criteo.com^$domain=spiegel.de
-||collector-*.px-client.net^
 ||d*.ruiwen.com^
 ||d*.wanzhuang.com^
 ||d*.xinshipu.com^
-||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
@@ -35,14 +32,12 @@
 ||geotargetly-api-*.com^
 ||gg*.miguvideo.com^
 ||hn-ping*.hashnode.com^
-||images.*.criteo.net^$domain=spiegel.de
 ||img.*mk.cn^$domain=avtbf.com
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||itc.*^prod=ad&
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
-||kinesis.*.amazonaws.com^$third-party,domain=~amazon.com
 ||ky891.oss-*.aliyuncs.com^
 ||log-*.previewnetworks.com^
 ||mcdp-*.outbrain.com^
@@ -69,7 +64,6 @@
 ||um*.com^$third-party
 ||union*.365inews.com^
 ||util-*.simply-hentai.com^
-||vix.*.criteo.net^$domain=spiegel.de
 ||vns86.oss-*.aliyuncs.com^
 ||ya*.dwstatic.com^
 ||ysdm*.ys137.com.cn^
