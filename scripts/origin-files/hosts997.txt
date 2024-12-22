@@ -269,6 +269,7 @@
 127.0.0.1 zz.bdstatic.com
 127.0.0.1 zzy1.quyaoya.com
 127.0.0.1 bds.snssdk.com
+127.0.0.1 byteadverts.com
 127.0.0.1 ctobsnssdk.com
 127.0.0.1 dig.bdurl.net
 127.0.0.1 extlog.snssdk.com
@@ -347,6 +348,7 @@
 127.0.0.1 telecome.cn
 127.0.0.1 unioncom.cc
 127.0.0.1 shuzilm.cn
+127.0.0.1 zxid-api.mobileservice.cn
 127.0.0.1 x.clearbitjs.com
 127.0.0.1 ad.games.dmm.com
 127.0.0.1 bluekai.com
@@ -446,6 +448,11 @@
 127.0.0.1 jzt.jd.com
 127.0.0.1 stat.m.jd.com
 127.0.0.1 img-x.jd.com
+127.0.0.1 adbkwai.com
+127.0.0.1 adkwai.com
+127.0.0.1 adukwai.com
+127.0.0.1 e.kuaishou.cn
+127.0.0.1 e.kuaishou.com
 127.0.0.1 log-sdk.gifshow.com
 127.0.0.1 wlog.kuaishou.com
 127.0.0.1 ads.service.kugou.com
@@ -468,10 +475,18 @@
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 mopub.com
 127.0.0.1 evt.mxplay.com
+127.0.0.1 a.youdao.com
+127.0.0.1 admusicpic.music.126.net
+127.0.0.1 ads.music.126.net
 127.0.0.1 analytics.163.com
 127.0.0.1 crash.163.com
 127.0.0.1 crashlytics.163.com
 127.0.0.1 g.163.com
+127.0.0.1 iadmat.nosdn.127.net
+127.0.0.1 iadmatapk.nosdn.127.net
+127.0.0.1 iadmusicmat.music.126.net
+127.0.0.1 iadmusicmatvideo.music.126.net
+127.0.0.1 sentry.music.163.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 ogury.com
 127.0.0.1 presage.io
@@ -572,6 +587,7 @@
 127.0.0.1 aty.sohu.com
 127.0.0.1 data.vod.itc.cn
 127.0.0.1 epro.sogou.com
+127.0.0.1 fpb.sohu.com
 127.0.0.1 go.sohu.com
 127.0.0.1 golden1.sogou.com
 127.0.0.1 imp.optaim.com
@@ -579,6 +595,8 @@
 127.0.0.1 inte.sogoucdn.com
 127.0.0.1 lu.sogoucdn.com
 127.0.0.1 pv.sohu.com
+127.0.0.1 qpb.sohu.com
+127.0.0.1 qpb1.sohu.com
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 track.sohu.com
 127.0.0.1 uranus.sogou.com
