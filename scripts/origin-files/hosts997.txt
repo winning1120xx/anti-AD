@@ -335,6 +335,7 @@
 127.0.0.1 tsyndicate.com
 127.0.0.1 wwads.cn
 127.0.0.1 adx.36kr.com
+127.0.0.1 ad.12306.cn
 127.0.0.1 hubcloud.com.cn
 127.0.0.1 beizi.biz
 127.0.0.1 click.ali213.net
@@ -347,8 +348,11 @@
 127.0.0.1 das-rpt-log.ucloud.cn
 127.0.0.1 telecome.cn
 127.0.0.1 unioncom.cc
+127.0.0.1 yfanads.cn
+127.0.0.1 yfanads.com
 127.0.0.1 shuzilm.cn
 127.0.0.1 zxid-api.mobileservice.cn
+127.0.0.1 zxid-m.mobileservice.cn
 127.0.0.1 x.clearbitjs.com
 127.0.0.1 ad.games.dmm.com
 127.0.0.1 bluekai.com
