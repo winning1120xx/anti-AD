@@ -340,6 +340,16 @@
 127.0.0.1 beizi.biz
 127.0.0.1 click.ali213.net
 127.0.0.1 pbmp.ali213.net
+127.0.0.1 pinggai0.caixin.com
+127.0.0.1 pinggai1.caixin.com
+127.0.0.1 pinggai2.caixin.com
+127.0.0.1 pinggai3.caixin.com
+127.0.0.1 pinggai4.caixin.com
+127.0.0.1 pinggai5.caixin.com
+127.0.0.1 pinggai6.caixin.com
+127.0.0.1 pinggai7.caixin.com
+127.0.0.1 pinggai8.caixin.com
+127.0.0.1 pinggai9.caixin.com
 127.0.0.1 adq.chinaso.com
 127.0.0.1 stat.chinaso.com
 127.0.0.1 toboads.com
