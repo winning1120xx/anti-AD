@@ -361,6 +361,10 @@
 127.0.0.1 yfanads.cn
 127.0.0.1 yfanads.com
 127.0.0.1 shuzilm.cn
+127.0.0.1 china-caa.org
+127.0.0.1 cnaa123.com
+127.0.0.1 chinaciaf.org
+127.0.0.1 iabchina.cn
 127.0.0.1 zxid-api.mobileservice.cn
 127.0.0.1 zxid-m.mobileservice.cn
 127.0.0.1 x.clearbitjs.com
