@@ -1,6 +1,9 @@
 127.0.0.1 apilog-web.acfun.cn
 127.0.0.1 adcolony.com
 127.0.0.1 adjust.com
+127.0.0.1 adjust.net.in
+127.0.0.1 adjust.io
+127.0.0.1 adjust.world
 127.0.0.1 advertising.adobe.com
 127.0.0.1 tubemogul.com
 127.0.0.1 a.alimama.cn
