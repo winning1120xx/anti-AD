@@ -606,7 +606,6 @@
 127.0.0.1 ads.sohu.com
 127.0.0.1 adv-sv-show.focus.cn
 127.0.0.1 aty.sohu.com
-127.0.0.1 data.vod.itc.cn
 127.0.0.1 epro.sogou.com
 127.0.0.1 fpb.sohu.com
 127.0.0.1 go.sohu.com
