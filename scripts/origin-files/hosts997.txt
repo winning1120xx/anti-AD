@@ -320,7 +320,6 @@
 127.0.0.1 imglnkc.com
 127.0.0.1 imglnkd.com
 127.0.0.1 innovid.com
-127.0.0.1 ja2.gamersky.com
 127.0.0.1 jads.co
 127.0.0.1 jl3.yjaxa.top
 127.0.0.1 juicyads.com
@@ -464,11 +463,13 @@
 127.0.0.1 policy.video.iqiyi.com
 127.0.0.1 yuedu.iqiyi.com
 127.0.0.1 ads.union.jd.com
+127.0.0.1 ads-union.jd.com
 127.0.0.1 c-nfa.jd.com
 127.0.0.1 cps.360buy.com
+127.0.0.1 gia.jd.com
+127.0.0.1 img-x.jd.com
 127.0.0.1 jzt.jd.com
 127.0.0.1 stat.m.jd.com
-127.0.0.1 img-x.jd.com
 127.0.0.1 adbkwai.com
 127.0.0.1 adkwai.com
 127.0.0.1 adukwai.com
