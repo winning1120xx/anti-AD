@@ -762,4 +762,3 @@
 127.0.0.1 wan.youku.com
 127.0.0.1 ykatr.youku.com
 127.0.0.1 ykrec.youku.com
-127.0.0.1 zyngaplayersupport.com
