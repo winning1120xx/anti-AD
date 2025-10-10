@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 859
+!Total lines: 860
 !Version: 1.6.8-release
-!Update time: 2025-09-08 17:44:58 UTC+8
-!Update content: Update Geosite.py
+!Update time: 2025-10-10 16:48:56 UTC+8
+!Update content: 解决commits存在换行时报错 #177
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -244,6 +244,8 @@
 ||bj.ad.track.66mobi.com^
 ||books-analytics-events.apple.com^
 ||bootpreload.uve.weibo.com^
+||browser.events.data.msn.cn^
+||browser.events.data.msn.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
 ||bsrv.qq.com^
 ||bugly.qq.com^
@@ -518,7 +520,6 @@
 ||mission-pub.smart-tv.cn^
 ||miui-fxcse.avlyun.com^
 ||mlog.bigda.com^
-||mmgame.qpic.cn^
 ||mnqlog.ldmnq.com^
 ||moatads.com^
 ||mobads-logs.baidu.com^
