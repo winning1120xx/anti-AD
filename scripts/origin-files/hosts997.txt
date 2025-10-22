@@ -280,6 +280,9 @@
 127.0.0.1 mcs.snssdk.com
 127.0.0.1 pangolin-dsp-toutiao-b.com
 127.0.0.1 pangolin-dsp-toutiao.com
+127.0.0.1 pangolin-hl.snssdk.com
+127.0.0.1 pangolin-lf.snssdk.com
+127.0.0.1 pangolin-lq.snssdk.com
 127.0.0.1 pangolin-sdk-toutiao-b.com
 127.0.0.1 pangolin-sdk-toutiao.com
 127.0.0.1 pangolin-sdk-toutiao1.com
@@ -650,6 +653,7 @@
 127.0.0.1 ad.qq.com
 127.0.0.1 ad.qun.qq.com
 127.0.0.1 adfilter.imtt.qq.com
+127.0.0.1 adnet.qq.com
 127.0.0.1 adping.qq.com
 127.0.0.1 adpm.app.qq.com
 127.0.0.1 adsclick.qq.com
