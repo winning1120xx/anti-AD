@@ -1,9 +1,10 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: 2025-11-07T12:10:08Z
+# Updated: 2025-11-10T12:10:30Z
 # Expires: 12 hours (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
 # Source: https://urlhaus.abuse.ch/api/
+0.0.0.0 1.off3.ru
 0.0.0.0 111101111.ru
 0.0.0.0 123.ywxww.net
 0.0.0.0 132.red-81-42-249.staticip.rima-tde.net
@@ -11,14 +12,10 @@
 0.0.0.0 1717.1000uc.com
 0.0.0.0 178.248.3.202.ll.sta.mana.pf
 0.0.0.0 179.248.3.202.ll.sta.mana.pf
-0.0.0.0 31agostomax3.dynuddns.net
-0.0.0.0 31agostomax4.dynuddns.com
 0.0.0.0 4393eb8c.solaraweb-alj.pages.dev
 0.0.0.0 5-157-110-232.dyn.eolo.it
-0.0.0.0 5-253-86-21.cprapid.com
 0.0.0.0 60aaf9c6.salamanderprocessing.pages.dev
 0.0.0.0 78-20-115-5.access.telenet.be
-0.0.0.0 7octubredc.duckdns.org
 0.0.0.0 83-87-76-41.cable.dynamic.v4.ziggo.nl
 0.0.0.0 91-92-241-8.cprapid.com
 0.0.0.0 94fae730-597f-4442-813c-86263972a8f0.usrfiles.com
@@ -33,11 +30,9 @@
 0.0.0.0 acms.saleseos.com
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
-0.0.0.0 adver.com.br
 0.0.0.0 advustech.com
 0.0.0.0 aerconditionat-arges.ro
 0.0.0.0 afrihealthexpo.org
-0.0.0.0 agent188core.org
 0.0.0.0 agent188strong.com
 0.0.0.0 ah-scanning.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 airlife.bget.ru
@@ -47,10 +42,10 @@
 0.0.0.0 ampayz.net
 0.0.0.0 amuletweb.com
 0.0.0.0 anapa-zarya.ru
-0.0.0.0 angka5.org
 0.0.0.0 antvietnam.com
 0.0.0.0 any-deskt.net
-0.0.0.0 anydesck.net
+0.0.0.0 apkdownload-service.ru
+0.0.0.0 aplikasiikan.com
 0.0.0.0 apn-87-251-249-41.static.gprs.plus.pl
 0.0.0.0 apple-service93.ru
 0.0.0.0 ardguisser.com
@@ -66,7 +61,6 @@
 0.0.0.0 attach.mail.daum.net
 0.0.0.0 augsburg-auto.com
 0.0.0.0 aulist.com
-0.0.0.0 austinmortuaryservicetx.com
 0.0.0.0 automobile-bk.de
 0.0.0.0 avisderecherche-valbarelle.com
 0.0.0.0 backupso.com
@@ -75,6 +69,7 @@
 0.0.0.0 bamautzky.de
 0.0.0.0 bankgarantia.ru
 0.0.0.0 banking.bankaustria.at.dswcontracting.work
+0.0.0.0 bdbarrandov.cz
 0.0.0.0 beesoft.id.vn
 0.0.0.0 beesoft.vn
 0.0.0.0 best.obs.cn-sz1.ctyun.cn
@@ -88,8 +83,8 @@
 0.0.0.0 bmdcompany.com
 0.0.0.0 bmh-global.myfirewall.org
 0.0.0.0 bnhar.com
-0.0.0.0 boboslotl.cfd
 0.0.0.0 book.rollingvideogames.com
+0.0.0.0 botevecc.boteve.cc
 0.0.0.0 bracell.latitude.net.br
 0.0.0.0 bratusferramentas.grupomoltz.com.br
 0.0.0.0 bridgeroad.maverickpreviews.com
@@ -110,7 +105,6 @@
 0.0.0.0 cdn.ly.9377.com
 0.0.0.0 cdn.xiaoduoai.com
 0.0.0.0 cegelecinfo.fr
-0.0.0.0 celebratingseniors.net
 0.0.0.0 cfs10.blog.daum.net
 0.0.0.0 cfs13.tistory.com
 0.0.0.0 cfs7.blog.daum.net
@@ -120,6 +114,7 @@
 0.0.0.0 chat-server.maverickpreviews.com
 0.0.0.0 checkinetverifk.com
 0.0.0.0 chinaapper.com
+0.0.0.0 chuguadventures.co.tz
 0.0.0.0 churchinmanila.org
 0.0.0.0 city.organzoperate.com
 0.0.0.0 class1004.dothome.co.kr
@@ -137,13 +132,14 @@
 0.0.0.0 constrainthome080doc-1318069902.cos.ap-chengdu.myqcloud.com
 0.0.0.0 continentalgroup.net.in
 0.0.0.0 convac123.duckdns.org
-0.0.0.0 cpcontacts.5-253-86-21.cprapid.com
 0.0.0.0 cpe90-146-57-238.liwest.at
 0.0.0.0 crazywickedaddiction.com
+0.0.0.0 crew.organzoperate.com
 0.0.0.0 crimefreesoftware.com
 0.0.0.0 crystalpvp.ru
 0.0.0.0 cs.go.kg
 0.0.0.0 csg-app.com
+0.0.0.0 csk.vietnamddns.com
 0.0.0.0 csomagklds-2025.com
 0.0.0.0 ct3-24.ru
 0.0.0.0 cutting-edge.in
@@ -154,11 +150,9 @@
 0.0.0.0 d3cciiowg5l3jx.cloudfront.net
 0.0.0.0 dacemirror.sci-hub.ru
 0.0.0.0 dacemirror.sci-hub.se
-0.0.0.0 daemons.studio
 0.0.0.0 dansorium.gr
 0.0.0.0 data.kaoyany.top
 0.0.0.0 data.yhydl.com
-0.0.0.0 dc14oct.duckdns.org
 0.0.0.0 dcrun.co.uk
 0.0.0.0 dcwblida.dz
 0.0.0.0 def163.keenetic.pro
@@ -207,7 +201,6 @@
 0.0.0.0 easybrand.vn
 0.0.0.0 ecs-124-70-158-53.compute.hwclouds-dns.com
 0.0.0.0 electri.billregulator.com
-0.0.0.0 elementscript.org
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embedone.com
 0.0.0.0 emprotel.net.bo
@@ -215,6 +208,7 @@
 0.0.0.0 entrepots-colis-2025.com
 0.0.0.0 envoi-frais-info.com
 0.0.0.0 epanpano.com
+0.0.0.0 estudio.ythan.com.br
 0.0.0.0 ethical-points-competitive-fluid.trycloudflare.com
 0.0.0.0 evangroup.ru
 0.0.0.0 f24-zfcloud.zdn.vn
@@ -225,7 +219,6 @@
 0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
 0.0.0.0 first-security-verden.de
-0.0.0.0 flowascatch.com
 0.0.0.0 flyingmutts.com
 0.0.0.0 fnvimoyvwkbxbmczlqus.supabase.co
 0.0.0.0 forms.saurashtrauniversity.edu
@@ -244,13 +237,11 @@
 0.0.0.0 galerisenimutiara.com
 0.0.0.0 glaustralia.com
 0.0.0.0 globaltechbilling.com
-0.0.0.0 gobiotechpestcontrol.com
 0.0.0.0 googletagamnager.com
 0.0.0.0 gordon-and-son.com
 0.0.0.0 goto.stnts.com
 0.0.0.0 grikom.info
 0.0.0.0 haeum.nfile.net
-0.0.0.0 hardware-added-mba-night.trycloudflare.com
 0.0.0.0 hasalltalent.com
 0.0.0.0 hhbs.hhu.edu.cn
 0.0.0.0 higreens.co.in
@@ -263,9 +254,12 @@
 0.0.0.0 host-195-103-203-106.business.telecomitalia.it
 0.0.0.0 host-95-230-215-65.business.telecomitalia.it
 0.0.0.0 host-95-255-114-11.business.telecomitalia.it
+0.0.0.0 hostphpwindowsdriversappssapo.duckdns.org
 0.0.0.0 hotelembuguacu.blob.core.windows.net
 0.0.0.0 hotellacastellana.com.uy
+0.0.0.0 hseda.com
 0.0.0.0 icoffeecloud.com
+0.0.0.0 igra123.com
 0.0.0.0 igw.myfirewall.org
 0.0.0.0 ihmmkvkaiwnilneauhfn.supabase.co
 0.0.0.0 iiiconstruction.net
@@ -278,10 +272,8 @@
 0.0.0.0 ip.nebulabin.pl
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
-0.0.0.0 ita-airwaysva.com
 0.0.0.0 itcomsrv.kz
 0.0.0.0 itssprout.com
-0.0.0.0 izocab.com
 0.0.0.0 izogard.com
 0.0.0.0 j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com
 0.0.0.0 jakestrack.com
@@ -289,7 +281,6 @@
 0.0.0.0 jd-forever.com
 0.0.0.0 jereservelocker.com
 0.0.0.0 jesuisbon-le.com
-0.0.0.0 jhfhfdkhdfdk32.duckdns.org
 0.0.0.0 jkshaonv.com
 0.0.0.0 jobcity.com
 0.0.0.0 jointings.org
@@ -310,6 +301,7 @@
 0.0.0.0 kramersmarionnettes.com
 0.0.0.0 kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 kuzina-teatr.ru
+0.0.0.0 ldbgaming24.com
 0.0.0.0 ldplaycn.com
 0.0.0.0 leindisncieamrocea-1341831283.cos.sa-saopaulo.myqcloud.com
 0.0.0.0 lh24h7tp-5500.euw.devtunnels.ms
@@ -325,6 +317,7 @@
 0.0.0.0 luuk-lifestyle.eu
 0.0.0.0 m-global.hksty.net
 0.0.0.0 m.bal-stroi.ru
+0.0.0.0 magistvapk.com.ar
 0.0.0.0 maidforyou1985.com
 0.0.0.0 masgrave.com
 0.0.0.0 me3.ne.jp
@@ -358,10 +351,7 @@
 0.0.0.0 nerve.untergrund.net
 0.0.0.0 netflx-assinatura-colecao.com
 0.0.0.0 netflx-assinatura-colecaos.com
-0.0.0.0 netrip.ddns.net
-0.0.0.0 new.executor.qzz.io
 0.0.0.0 newkey.co.kr
-0.0.0.0 newshostingsupdate.com
 0.0.0.0 nnnpanel.top
 0.0.0.0 no-more-spam.app
 0.0.0.0 nusatoyota.co.id
@@ -369,6 +359,8 @@
 0.0.0.0 o24o.ru
 0.0.0.0 ofice365.github.io
 0.0.0.0 ojang.pe.kr
+0.0.0.0 okhan.net
+0.0.0.0 oknoplastik.sk
 0.0.0.0 old.bullydog.com
 0.0.0.0 olingerphoto.com
 0.0.0.0 onfiltre.com.tr
@@ -395,7 +387,9 @@
 0.0.0.0 openaigrok.com
 0.0.0.0 opolis.io
 0.0.0.0 oss.bbhcar.top
+0.0.0.0 overplay-138.store
 0.0.0.0 owlcity.ru
+0.0.0.0 oys0ro.static.otenet.gr
 0.0.0.0 p1611192-mobac01.tokyo.ocn.ne.jp
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 p5.zbjimg.com
@@ -408,9 +402,9 @@
 0.0.0.0 pay.aqiu6.com
 0.0.0.0 pcupd.com
 0.0.0.0 pelis25.com
-0.0.0.0 pfatrivandrum.org
 0.0.0.0 pid.fly160.com
 0.0.0.0 planetariumobil.ro
+0.0.0.0 planner5dl.com
 0.0.0.0 playtown.co.za
 0.0.0.0 pns.org.pk
 0.0.0.0 pobedastaff.ru
@@ -423,6 +417,7 @@
 0.0.0.0 programandojuntos.us.tempcloudsite.com
 0.0.0.0 projetodegente.com
 0.0.0.0 proship.ae
+0.0.0.0 protecaocartao.online
 0.0.0.0 ptptonuwu.duckdns.org
 0.0.0.0 pub-0478b308b8cf46709a73d0eed5afd633.r2.dev
 0.0.0.0 pub-1445de8c8aa84761aac5200e0036237d.r2.dev
@@ -436,6 +431,7 @@
 0.0.0.0 ransokk.de
 0.0.0.0 rbcfort.com
 0.0.0.0 rdm.91yunma.cn
+0.0.0.0 records.dennisign.se
 0.0.0.0 redeamazoniaazul.org
 0.0.0.0 redlk.com
 0.0.0.0 regularize-evitar.com
@@ -443,10 +439,8 @@
 0.0.0.0 relais-livraison-colis.com
 0.0.0.0 relais-logistique-colis.com
 0.0.0.0 relaislockers2025.com
-0.0.0.0 rem0925.duckdns.org
-0.0.0.0 remcosf2025.duckdns.org
-0.0.0.0 remdefrem.duckdns.org
 0.0.0.0 resourceedge.org
+0.0.0.0 reusable-flex.com
 0.0.0.0 robertrowe.com
 0.0.0.0 rxquickpay.com
 0.0.0.0 saf-oil.ru
@@ -455,14 +449,10 @@
 0.0.0.0 sanghyun.nfile.net
 0.0.0.0 scainseto.com.br
 0.0.0.0 scanwellhaulage.com
-0.0.0.0 schenckel.com.br
-0.0.0.0 scientists-protection-tiny-musician.trycloudflare.com
 0.0.0.0 scratch-orbit-method-unlikely.trycloudflare.com
 0.0.0.0 screen.connectprotocol.es
-0.0.0.0 scwebtech4u.com
 0.0.0.0 sdvgpro.ru
 0.0.0.0 securedocusharex.com
-0.0.0.0 senhosertakessorrowbots2025workingtutorial.fawkingblodibastard.ru
 0.0.0.0 serasoo.direct.quickconnect.to
 0.0.0.0 server.toeicswt.co.kr
 0.0.0.0 sfa.com.ar
@@ -474,11 +464,10 @@
 0.0.0.0 shop.mediasova.ru
 0.0.0.0 shqdown.ggzuhao.com
 0.0.0.0 sigdalokanolkas.com
-0.0.0.0 signalaway.world
 0.0.0.0 silver-hubdachwohnwagen.de
 0.0.0.0 simbhaolisugars.in
+0.0.0.0 sitioseguroswpersonasapp.duckdns.org
 0.0.0.0 sk-comtel.com
-0.0.0.0 skynetx.com.br
 0.0.0.0 smeetspost.nl
 0.0.0.0 smilesmash.com
 0.0.0.0 soft.110route.com
@@ -489,7 +478,6 @@
 0.0.0.0 softdl2.360tpcdn.com
 0.0.0.0 softdl4.360.cn
 0.0.0.0 solutelco.com
-0.0.0.0 sophos1997.camdvr.org
 0.0.0.0 spaceframe.mobi.space-frame.co.za
 0.0.0.0 spoar.org.in
 0.0.0.0 spst.hqup.in
@@ -502,9 +490,9 @@
 0.0.0.0 static.topxgun.com
 0.0.0.0 static.zongheng.com
 0.0.0.0 stdown.dinju.com
-0.0.0.0 stonecradle.com
 0.0.0.0 streammobs.com
 0.0.0.0 suivimoncolis-mondialrelais.com
+0.0.0.0 sundor.xyz
 0.0.0.0 supercleanspb.ru
 0.0.0.0 support-data.com
 0.0.0.0 support.clz.kr
@@ -513,6 +501,7 @@
 0.0.0.0 svirtual.sanviatorperu.edu.pe
 0.0.0.0 synergyconsulting.us
 0.0.0.0 systemsupport.top
+0.0.0.0 t-launcher.site
 0.0.0.0 tajalrayhan.com
 0.0.0.0 talentrecruitments.com
 0.0.0.0 tanscarattorneys.co.tz
@@ -528,32 +517,31 @@
 0.0.0.0 test.aionclassic.pro
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 tests.yjzj.org
-0.0.0.0 thatdimensionalwebsite.com
 0.0.0.0 thtp2.volamngayxua.net
 0.0.0.0 tirtasentosa.com
 0.0.0.0 tiwanlinm.duckdns.org
 0.0.0.0 tobeart.ru
 0.0.0.0 tobecation.github.io
 0.0.0.0 toolshare.com.tr
-0.0.0.0 topmedsolution.com
 0.0.0.0 toto919ril.com
-0.0.0.0 trafficflow.life
 0.0.0.0 trajet-mondialrelay.com
 0.0.0.0 transparenciacanaa.com.br
 0.0.0.0 treinamento.convenio.to.gov.br
 0.0.0.0 trtmyanmar.com
 0.0.0.0 trungtambaohanhmaylanh.com
+0.0.0.0 tsmau.com
 0.0.0.0 turnabattle.fun
+0.0.0.0 tvfutcariri.com.br
 0.0.0.0 udobrit.ru
 0.0.0.0 ukguk71.ru
 0.0.0.0 ultrauraniummirai.ddns.net
-0.0.0.0 ultraviewv.com
+0.0.0.0 universami.ge
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.aegis.aliyun.com
 0.0.0.0 update.bruss.org.ru
 0.0.0.0 update.cg100iii.com
 0.0.0.0 update.volam2005pk.com
-0.0.0.0 upjohn90.cc
+0.0.0.0 uploadsfre.com
 0.0.0.0 uploadtree.com
 0.0.0.0 uralmetalloprokat.ru
 0.0.0.0 uraniumc2.ddns.net
@@ -578,24 +566,21 @@
 0.0.0.0 votre-livraison-colis.com
 0.0.0.0 vqfdkhdzsgauegpvqiem.supabase.co
 0.0.0.0 vulnfactory.org
-0.0.0.0 wafflemafia.top
-0.0.0.0 wahanastory.store
 0.0.0.0 warkopshopfb138.cc
 0.0.0.0 website.mypetapp.co.za
 0.0.0.0 websitedesigningindia.biz
 0.0.0.0 weco.oss-eu-central-1.aliyuncs.com
 0.0.0.0 weco2.oss-me-east-1.aliyuncs.com
-0.0.0.0 whm.5-253-86-21.cprapid.com
 0.0.0.0 win.down.55kantu.com
 0.0.0.0 windomstatetheater.com
 0.0.0.0 windriversfiles.imeitools.com
+0.0.0.0 windyy.qzz.io
 0.0.0.0 writerartist.com
 0.0.0.0 www2.0zz0.com
 0.0.0.0 www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com
 0.0.0.0 www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com
 0.0.0.0 wz.3911.com
 0.0.0.0 xai830k.com
-0.0.0.0 xemhang.vn
 0.0.0.0 xiaoma-10021647.file.myqcloud.com
 0.0.0.0 ximonite.com
 0.0.0.0 xingba888.today
@@ -611,12 +596,10 @@
 0.0.0.0 ybgctdtbzvgpdxjivafy.supabase.co
 0.0.0.0 yongtai.cn
 0.0.0.0 youtransfer.net
-0.0.0.0 youtubeultra.digital
 0.0.0.0 yzkzixun.com
 0.0.0.0 zamilgroups.com
 0.0.0.0 zapchast-gazkotel.ru
 0.0.0.0 zenglobalenerji.com
 0.0.0.0 zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 0.0.0.0 zhikey.com
-0.0.0.0 zidomasones.com
 0.0.0.0 zlonline.oss-cn-shenzhen.aliyuncs.com
