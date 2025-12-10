@@ -134,6 +134,7 @@
 127.0.0.1 pglstatp-toutiao-b.com
 127.0.0.1 pglstatp-toutiao.com
 127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 shoppingads.cn
 127.0.0.1 51.la
 127.0.0.1 51y5.net
 127.0.0.1 a.adtng.com
@@ -483,6 +484,7 @@
 127.0.0.1 adslvseed.qq.com
 127.0.0.1 adsmind.apdcdn.tc.qq.com
 127.0.0.1 adsqqclick.qq.com
+127.0.0.1 adstats.tencentmusic.com
 127.0.0.1 adstestview.qq.com
 127.0.0.1 adsview.qq.com
 127.0.0.1 adsview2.qq.com
@@ -496,14 +498,17 @@
 127.0.0.1 e.qq.com
 127.0.0.1 gdt.qq.com
 127.0.0.1 hq-tracking.qq.com
+127.0.0.1 htrace.wetvinfo.com
 127.0.0.1 isdspeed.qq.com
 127.0.0.1 log.tbs.qq.com
 127.0.0.1 mdt.qq.com
+127.0.0.1 monitor.music.qq.com
 127.0.0.1 mpush.qq.com
 127.0.0.1 mtrace.qq.com
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 pingjs.qq.com
 127.0.0.1 push.qq.com
+127.0.0.1 report.qqweb.qq.com
 127.0.0.1 sngmta.qq.com
 127.0.0.1 stat.y.qq.com
 127.0.0.1 tajs.qq.com
