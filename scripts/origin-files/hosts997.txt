@@ -609,3 +609,4 @@
 127.0.0.1 ykad-data.youku.com
 127.0.0.1 crash2.zhihu.com
 127.0.0.1 zhihu-web-analytics.zhihu.com
+127.0.0.1 syh.zybang.com
