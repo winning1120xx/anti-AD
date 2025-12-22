@@ -573,8 +573,12 @@
 127.0.0.1 admob.xiaomi.com
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
+127.0.0.1 data.mistat.india.xiaomi.com
+127.0.0.1 data.mistat.intl.xiaomi.com
+127.0.0.1 data.mistat.rus.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 misc.in.duokanbox.com
-127.0.0.1 mistat.xiaomi.com
 127.0.0.1 sentry.d.mi.com
 127.0.0.1 sentry.d.xiaomi.net
 127.0.0.1 tjqonline.cn
