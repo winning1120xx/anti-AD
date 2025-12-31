@@ -277,11 +277,13 @@
 127.0.0.1 adsensecustomsearchads.com
 127.0.0.1 adsenseformobileapps.com
 127.0.0.1 adservice.google.com
+127.0.0.1 adtrafficquality.google
 127.0.0.1 advertisercommunity.com
 127.0.0.1 advertiserscommunity.com
 127.0.0.1 adwords-community.com
 127.0.0.1 adwords.com
 127.0.0.1 adwordsexpress.com
+127.0.0.1 analytics-alv.google.com
 127.0.0.1 app-analytics-services.com
 127.0.0.1 app-analytics-services-att.com
 127.0.0.1 app-measurement-cn.com
@@ -290,6 +292,7 @@
 127.0.0.1 doubleclick.cn
 127.0.0.1 doubleclick.com
 127.0.0.1 doubleclick.net
+127.0.0.1 fcmatch.google.com
 127.0.0.1 google-analytics-cn.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleadapis.com
