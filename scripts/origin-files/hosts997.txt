@@ -229,6 +229,8 @@
 127.0.0.1 zhugeapi.com
 127.0.0.1 zhugeapi.net
 127.0.0.1 zhugeio.com
+127.0.0.1 atrace.chelaile.net.cn
+127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 clearbit.com
 127.0.0.1 clearbitjs.com
 127.0.0.1 clearbitscripts.com
@@ -522,12 +524,15 @@
 127.0.0.1 log.tbs.qq.com
 127.0.0.1 mdt.qq.com
 127.0.0.1 monitor.music.qq.com
+127.0.0.1 monitor.uu.qq.com
 127.0.0.1 mpush.qq.com
 127.0.0.1 mtrace.qq.com
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 pingjs.qq.com
+127.0.0.1 pmir.3g.qq.com
 127.0.0.1 push.qq.com
 127.0.0.1 report.qqweb.qq.com
+127.0.0.1 rmonitor.qq.com
 127.0.0.1 sngmta.qq.com
 127.0.0.1 stat.y.qq.com
 127.0.0.1 tajs.qq.com
@@ -584,8 +589,10 @@
 127.0.0.1 misc.in.duokanbox.com
 127.0.0.1 sentry.d.mi.com
 127.0.0.1 sentry.d.xiaomi.net
+127.0.0.1 stats.music.xiaomi.com
 127.0.0.1 tjqonline.cn
 127.0.0.1 tracker.ai.xiaomi.com
+127.0.0.1 tracker.xiaomixiaoai.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 adbehavior.ximalaya.com
 127.0.0.1 adse.wsa.ximalaya.com
