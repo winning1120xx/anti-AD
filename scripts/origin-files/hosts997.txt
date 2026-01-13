@@ -53,6 +53,7 @@
 127.0.0.1 v6-adashx.ut.amap.com
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 serving-sys.com
+127.0.0.1 advertising.apple.com
 127.0.0.1 api-adservices.apple.com
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iad.apple.com
@@ -114,12 +115,15 @@
 127.0.0.1 wkctj.baidu.com
 127.0.0.1 wm.baidu.com
 127.0.0.1 zz.bdstatic.com
+127.0.0.1 ad.toutiao.com
+127.0.0.1 analytics.tiktok.com
 127.0.0.1 bds.snssdk.com
 127.0.0.1 byteadverts.com
 127.0.0.1 ctobsnssdk.com
 127.0.0.1 dig.bdurl.net
 127.0.0.1 extlog.snssdk.com
 127.0.0.1 i.snssdk.com
+127.0.0.1 log.zijieapi.com
 127.0.0.1 mcs.snssdk.com
 127.0.0.1 pangolin-dsp-toutiao-b.com
 127.0.0.1 pangolin-dsp-toutiao.com
@@ -149,6 +153,7 @@
 127.0.0.1 addthisedge.com
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ads.wteam.xyz
+127.0.0.1 adservice.sigmob.cn
 127.0.0.1 adtechus.com
 127.0.0.1 adtrue.com
 127.0.0.1 adxprtz.com
@@ -231,6 +236,8 @@
 127.0.0.1 zhugeio.com
 127.0.0.1 atrace.chelaile.net.cn
 127.0.0.1 logs.chelaile.net.cn
+127.0.0.1 analytics.umetrip.com
+127.0.0.1 sensors.umetrip.com.cn
 127.0.0.1 clearbit.com
 127.0.0.1 clearbitjs.com
 127.0.0.1 clearbitscripts.com
@@ -399,11 +406,10 @@
 127.0.0.1 openxcdn.net
 127.0.0.1 openxenterprise.com
 127.0.0.1 openxmarket.asia
-127.0.0.1 ad-channel.diwodiwo.xyz
-127.0.0.1 ad-display.diwodiwo.xyz
 127.0.0.1 cdn.pocoiq.cn
 127.0.0.1 oct.pocoiq.cn
 127.0.0.1 ads.pubmatic.com
+127.0.0.1 c.sayhi.360.cn
 127.0.0.1 fenxi.360.cn
 127.0.0.1 fenxi.com
 127.0.0.1 lianmeng.360.cn
@@ -477,6 +483,7 @@
 127.0.0.1 xy-log.tagtic.cn
 127.0.0.1 ssp.api.tappx.com
 127.0.0.1 ad.hpplay.cn
+127.0.0.1 adc.hpplay.cn
 127.0.0.1 adeng.hpplay.cn
 127.0.0.1 ads-uo.api.leiniao.com
 127.0.0.1 ads-ut.api.leiniao.com
@@ -492,6 +499,7 @@
 127.0.0.1 ad.browser.qq.com
 127.0.0.1 ad.qq.com
 127.0.0.1 ad.qun.qq.com
+127.0.0.1 ad.tencentmusic.com
 127.0.0.1 ad.weixin.qq.com
 127.0.0.1 adfilter.imtt.qq.com
 127.0.0.1 adnet.qq.com
@@ -531,7 +539,9 @@
 127.0.0.1 pingjs.qq.com
 127.0.0.1 pmir.3g.qq.com
 127.0.0.1 push.qq.com
+127.0.0.1 qqdata.ab.qq.com
 127.0.0.1 report.qqweb.qq.com
+127.0.0.1 report.tencentmusic.com
 127.0.0.1 rmonitor.qq.com
 127.0.0.1 sngmta.qq.com
 127.0.0.1 stat.y.qq.com
@@ -539,6 +549,7 @@
 127.0.0.1 tcss.qq.com
 127.0.0.1 tmead.y.qq.com
 127.0.0.1 tmeadcomm.y.qq.com
+127.0.0.1 tpstelemetry.tencent.com
 127.0.0.1 trace.qq.com
 127.0.0.1 ugdtimg.com
 127.0.0.1 wit.qq.com
@@ -621,6 +632,4 @@
 127.0.0.1 v6-adashx.ut.youku.com
 127.0.0.1 yk-ssp.ad.youku.com
 127.0.0.1 ykad-data.youku.com
-127.0.0.1 crash2.zhihu.com
-127.0.0.1 zhihu-web-analytics.zhihu.com
 127.0.0.1 syh.zybang.com
