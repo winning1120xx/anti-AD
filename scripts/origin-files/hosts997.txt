@@ -231,6 +231,7 @@
 127.0.0.1 optaim.com
 127.0.0.1 reachmax.cn
 127.0.0.1 reyun.com
+127.0.0.1 static.sensorsdata.cn
 127.0.0.1 zhugeapi.com
 127.0.0.1 zhugeapi.net
 127.0.0.1 zhugeio.com
@@ -423,7 +424,6 @@
 127.0.0.1 segment.io
 127.0.0.1 segmenthub.com
 127.0.0.1 segmentify.com
-127.0.0.1 static.sensorsdata.cn
 127.0.0.1 ad.sina.com.cn
 127.0.0.1 ad.us.sinaimg.cn
 127.0.0.1 adbox.sina.com.cn
