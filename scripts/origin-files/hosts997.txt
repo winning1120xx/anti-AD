@@ -147,7 +147,6 @@
 127.0.0.1 adtechus.com
 127.0.0.1 adtrue.com
 127.0.0.1 adxprtz.com
-127.0.0.1 assets.growingio.com
 127.0.0.1 cdn.advertserve.com
 127.0.0.1 cdn.banclip.com
 127.0.0.1 cfts1tifqr.com
