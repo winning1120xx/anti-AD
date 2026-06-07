@@ -68,6 +68,7 @@
 127.0.0.1 pbmp.ali213.net
 127.0.0.1 applovin.com
 127.0.0.1 applvn.com
+127.0.0.1 appsflyersdk.com
 127.0.0.1 pinggai0.caixin.com
 127.0.0.1 pinggai1.caixin.com
 127.0.0.1 pinggai2.caixin.com
@@ -98,6 +99,7 @@
 127.0.0.1 xy-log.tagtic.cn
 127.0.0.1 ad.unimhk.com
 127.0.0.1 das-rpt-log.ucloud.cn
+127.0.0.1 logs.ads.vungle.com
 127.0.0.1 telecome.cn
 127.0.0.1 unioncom.cc
 127.0.0.1 yfanads.cn
