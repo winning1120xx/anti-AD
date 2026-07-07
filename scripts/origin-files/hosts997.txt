@@ -125,3 +125,4 @@
 127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 analytics.umetrip.com
 127.0.0.1 sensors.umetrip.com.cn
+127.0.0.1 pub.network
