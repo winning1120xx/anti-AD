@@ -1,20 +1,17 @@
 # Title: Online Malicious Hosts Blocklist
-# Updated: 2026-09-19T12:10:34Z
+# Updated: 2026-09-22T12:10:31Z
 # Expires: 12 hours (update frequency)
 # Homepage: https://gitlab.com/malware-filter/urlhaus-filter
 # License: https://gitlab.com/malware-filter/urlhaus-filter#license
 # Source: https://urlhaus.abuse.ch/api/
 0.0.0.0 123.ywxww.net
 0.0.0.0 132.red-81-42-249.staticip.rima-tde.net
-0.0.0.0 14-0-204-188.static.pccw-hkt.com
-0.0.0.0 150.co.il
 0.0.0.0 1717.1000uc.com
 0.0.0.0 178.248.3.202.ll.sta.mana.pf
 0.0.0.0 179.248.3.202.ll.sta.mana.pf
 0.0.0.0 198-macros.com
 0.0.0.0 198348.gl
 0.0.0.0 22qq-client.com
-0.0.0.0 2bxvrc1.com
 0.0.0.0 2cfc0222.salamanderprocessing.pages.dev
 0.0.0.0 4eclient.com
 0.0.0.0 60aaf9c6.salamanderprocessing.pages.dev
@@ -23,10 +20,8 @@
 0.0.0.0 93.105.205.92.host.secureserver.net
 0.0.0.0 99-118-215-24.lightspeed.irvnca.sbcglobal.net
 0.0.0.0 99194034-96-20180108171507.webstarterz.com
-0.0.0.0 abilityindisabilityindia.org
 0.0.0.0 acc.jiangsujiaxue.com
 0.0.0.0 acms.saleseos.com
-0.0.0.0 acrilicoporto.pt
 0.0.0.0 admin.byte.in.ua
 0.0.0.0 admin.gestroom.it
 0.0.0.0 aftelecom.com.br
@@ -34,7 +29,6 @@
 0.0.0.0 alarmline.com.br
 0.0.0.0 alineeleuterio.com.br
 0.0.0.0 allendostmen.com
-0.0.0.0 alphapicaficagency.com
 0.0.0.0 alternativas.ru
 0.0.0.0 app.appzcvb.com
 0.0.0.0 ardguisser.com
@@ -53,9 +47,9 @@
 0.0.0.0 baolongwes.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 beak.in
 0.0.0.0 benshamcentre.co.uk
+0.0.0.0 beoauto.alexion.rs
 0.0.0.0 best.obs.cn-sz1.ctyun.cn
 0.0.0.0 best10cdn.blob.core.windows.net
-0.0.0.0 bito.com.pk
 0.0.0.0 bj5y6-0f-9h4-9fgg4-1324992141.cos.ap-bangkok.myqcloud.com
 0.0.0.0 blackhattoolz.com
 0.0.0.0 blankeyeo.com
@@ -65,6 +59,7 @@
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 book.rollingvideogames.com
+0.0.0.0 booking.captcha-message-extranet.com
 0.0.0.0 bratusferramentas.grupomoltz.com.br
 0.0.0.0 breezeclient.com
 0.0.0.0 bridgeroad.maverickpreviews.com
@@ -81,6 +76,7 @@
 0.0.0.0 catbaparadisehotel.com.vn
 0.0.0.0 cdaonline.com.ar
 0.0.0.0 cdn-10049480.file.myqcloud.com
+0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 cdn.gomlab.com
 0.0.0.0 cdn.novoline.top
 0.0.0.0 cdn.xiaoduoai.com
@@ -90,10 +86,8 @@
 0.0.0.0 cfs7.blog.daum.net
 0.0.0.0 cfs9.blog.daum.net
 0.0.0.0 chat-server.maverickpreviews.com
-0.0.0.0 checkfivem.com
 0.0.0.0 cheetoclient.com
 0.0.0.0 chenwangqiao.com
-0.0.0.0 chiptune.com
 0.0.0.0 chiroartist.com
 0.0.0.0 chuguadventures.co.tz
 0.0.0.0 churchinmanila.org
@@ -117,17 +111,14 @@
 0.0.0.0 cs.go.kg
 0.0.0.0 cutting-edge.in
 0.0.0.0 d.14yaa.com
-0.0.0.0 d.kpzip.com
 0.0.0.0 d.wanyouxi7.com
 0.0.0.0 d2314eac.solaraweb-alj.pages.dev
 0.0.0.0 d3cciiowg5l3jx.cloudfront.net
 0.0.0.0 damiancollier.com
 0.0.0.0 data.yhydl.com
 0.0.0.0 dcrun.co.uk
-0.0.0.0 dcwblida.dz
 0.0.0.0 deagroup-ks.com
 0.0.0.0 debugify.net
-0.0.0.0 del.sou.pp.ua
 0.0.0.0 delp-heizungsbau.de
 0.0.0.0 deltabehavioralhealth.org
 0.0.0.0 dezcom.com
@@ -140,7 +131,6 @@
 0.0.0.0 dl.natgo.cn
 0.0.0.0 dlied6.bytes.tcdnos.com
 0.0.0.0 dlied6.yz.tcdnos.com
-0.0.0.0 dnswwt.club
 0.0.0.0 doc.e-statements.app
 0.0.0.0 dongyu.us
 0.0.0.0 donkeytourscroatia.com
@@ -148,6 +138,7 @@
 0.0.0.0 down.ftp21.cc
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
+0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.ruanmei.com
 0.0.0.0 down10d.zol.com.cn
 0.0.0.0 downali.game.uc.cn
@@ -169,20 +160,19 @@
 0.0.0.0 elisans.novayonetim.com
 0.0.0.0 embalageral.hospedagemdesites.ws
 0.0.0.0 empty-violet-63e1.maskify.workers.dev
-0.0.0.0 en.taichuan.com
 0.0.0.0 endpoint.project0.cc
 0.0.0.0 envs.sh
 0.0.0.0 epanpano.com
-0.0.0.0 epibenie.dz
 0.0.0.0 epsinf.com
+0.0.0.0 ertdyfiabwggujakd.duckdns.org
 0.0.0.0 f24-zfcloud.zdn.vn
 0.0.0.0 f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com
 0.0.0.0 fakers.co.jp
 0.0.0.0 fb6390d5.infinityindians.pages.dev
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 file.blackint3.com
-0.0.0.0 file.uhsea.com
 0.0.0.0 filerit.com
+0.0.0.0 fileupdates.blob.core.windows.net
 0.0.0.0 first-security-verden.de
 0.0.0.0 flyingmutts.com
 0.0.0.0 fmrio.com
@@ -199,9 +189,10 @@
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gestionycobranzas.com
 0.0.0.0 gestroom.it
-0.0.0.0 ghostclient.net
+0.0.0.0 glbeletronica.com.br
 0.0.0.0 globalbank.us
 0.0.0.0 goto.stnts.com
+0.0.0.0 greenf.alexion.rs
 0.0.0.0 grupomcperu.com
 0.0.0.0 haeum.nfile.net
 0.0.0.0 harmeetmotors.com
@@ -229,15 +220,13 @@
 0.0.0.0 ihmmkvkaiwnilneauhfn.supabase.co
 0.0.0.0 imagefiles-backup.oss-ap-southeast-7.aliyuncs.com
 0.0.0.0 impectorinternational.com
-0.0.0.0 indonesias.me
-0.0.0.0 indusenterprises.co
+0.0.0.0 iniciaonline.com
 0.0.0.0 intelligradeeducation.vicentecisnerospub.com
 0.0.0.0 invmove.com
 0.0.0.0 ircftp.net
 0.0.0.0 isiore.com.co
 0.0.0.0 itssprout.com
 0.0.0.0 j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com
-0.0.0.0 jawaratekno.com
 0.0.0.0 jd-forever.com
 0.0.0.0 jenniferloeffler.com
 0.0.0.0 jessespridecharters.com
@@ -245,11 +234,9 @@
 0.0.0.0 jswen.com
 0.0.0.0 kavacanada.ca
 0.0.0.0 kavyasourcing.com
-0.0.0.0 kbskitchen1.screenconnect.com
 0.0.0.0 kenwillzltd.com
 0.0.0.0 khavar.com
 0.0.0.0 kimyen.net
-0.0.0.0 kong07.s3.us-east-1.amazonaws.com
 0.0.0.0 konsor.ru
 0.0.0.0 kryptonclient-cracked.com
 0.0.0.0 kryptonclientcrack.lovable.app
@@ -262,7 +249,6 @@
 0.0.0.0 lindnerelektroanlagen.de
 0.0.0.0 local-update.com
 0.0.0.0 lomejordesalamanca.es
-0.0.0.0 loop-lumen.com
 0.0.0.0 luizmatoso.com.br
 0.0.0.0 lumacrea.com
 0.0.0.0 luminexclient.com
@@ -271,12 +257,11 @@
 0.0.0.0 m.meta-dm.com
 0.0.0.0 maidforyou1985.com
 0.0.0.0 malupieng.com.br
-0.0.0.0 massgravel.net
 0.0.0.0 matthewsigmondv5.pages.dev
 0.0.0.0 medises.co.kr
 0.0.0.0 mersped.mycpanel.rs
 0.0.0.0 meteorclients.com
-0.0.0.0 minecraft-cheats.com
+0.0.0.0 metrics.gocloudmaps.com
 0.0.0.0 miner.pages.dev
 0.0.0.0 mininews.kpzip.com
 0.0.0.0 miriamgualda.com.br
@@ -292,10 +277,8 @@
 0.0.0.0 myvcart.com
 0.0.0.0 n.vs108.com
 0.0.0.0 namaacont.com
-0.0.0.0 namuvpn.com
 0.0.0.0 nccommunication.be
 0.0.0.0 ncxps.com
-0.0.0.0 nerve.untergrund.net
 0.0.0.0 newkey.co.kr
 0.0.0.0 noamaddons.com
 0.0.0.0 noithaticon.vn
@@ -306,15 +289,19 @@
 0.0.0.0 ny.lshdw.cc
 0.0.0.0 odinclient.com
 0.0.0.0 ofice365.github.io
+0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 ojang.pe.kr
 0.0.0.0 oknoplastik.sk
 0.0.0.0 old.bullydog.com
 0.0.0.0 old.umcl.us
 0.0.0.0 opalcraftsmp.com
+0.0.0.0 opsecmod.st
 0.0.0.0 ossapp.suning.com
+0.0.0.0 out-agent.duckdns.org
 0.0.0.0 outpost.co.ke
 0.0.0.0 p3.zbjimg.com
 0.0.0.0 paccbet.pages.dev
+0.0.0.0 palharesinformatica.com.br
 0.0.0.0 paradox924x.pages.dev
 0.0.0.0 pardu.pages.dev
 0.0.0.0 paretandassociates.screenconnect.com
@@ -336,10 +323,12 @@
 0.0.0.0 preciosasjoyitas.com.mx
 0.0.0.0 prepstarcenter.com
 0.0.0.0 prestige-client.org
+0.0.0.0 prestigeclient.st
 0.0.0.0 procuratio.nu
 0.0.0.0 profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 0.0.0.0 programandojuntos.us.tempcloudsite.com
 0.0.0.0 projetodegente.com
+0.0.0.0 protherapycenter.com
 0.0.0.0 pub-0478b308b8cf46709a73d0eed5afd633.r2.dev
 0.0.0.0 pub-1614932a526c40d79fe5bf23e71e3ff7.r2.dev
 0.0.0.0 pub-1900be17f2994b5580d602f23eb7fb93.r2.dev
@@ -365,10 +354,9 @@
 0.0.0.0 refaccionesalma.com.mx
 0.0.0.0 reifenquick.de
 0.0.0.0 reservphotoinstay.one
-0.0.0.0 reservphotoinstaynow.shop
 0.0.0.0 reutilizemais.co.mz
-0.0.0.0 rheddh.com
 0.0.0.0 robertrowe.com
+0.0.0.0 royalcuts.co.uk
 0.0.0.0 royalindiancurryclub.com
 0.0.0.0 rxquickpay.com
 0.0.0.0 sablayan.seasonshotelmindoro.com
@@ -388,21 +376,20 @@
 0.0.0.0 sec.xiaoshabi.nl
 0.0.0.0 seismophonic.com
 0.0.0.0 semencepourlavie.org
-0.0.0.0 seputartuban.com
 0.0.0.0 server.toeicswt.co.kr
 0.0.0.0 sg123.net
 0.0.0.0 sgeseducation.com
 0.0.0.0 sh.classera.com
 0.0.0.0 shadowbot-dih.pages.dev
 0.0.0.0 shqdown.ggzuhao.com
-0.0.0.0 sigmaclient.net
 0.0.0.0 silver-hubdachwohnwagen.de
-0.0.0.0 sirenasultana.com
 0.0.0.0 sk-comtel.com
 0.0.0.0 skyblock-addons.com
 0.0.0.0 skyblock-extras.org
+0.0.0.0 skymoders.top
 0.0.0.0 smartermail.host
 0.0.0.0 soft.110route.com
+0.0.0.0 soft.wsyhn.com
 0.0.0.0 softbank126023203236.bbtec.net
 0.0.0.0 softdl.360tpcdn.com
 0.0.0.0 softdl2.360tpcdn.com
@@ -421,12 +408,12 @@
 0.0.0.0 stdown.dinju.com
 0.0.0.0 streammobs.com
 0.0.0.0 students16.screenconnect.com
-0.0.0.0 studiogioeli.it
 0.0.0.0 support.clz.kr
 0.0.0.0 sutterpoint.com
 0.0.0.0 svirtual.sanviatorperu.edu.pe
 0.0.0.0 sweet-snowflake-8a7e.uploadesclintesss.workers.dev
 0.0.0.0 synergyconsulting.us
+0.0.0.0 talkandtypeapp.com
 0.0.0.0 tangentwaves.com
 0.0.0.0 tanscarattorneys.co.tz
 0.0.0.0 tapestryoftruth.com
@@ -439,6 +426,7 @@
 0.0.0.0 tenis-team-km.com
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 thankful-cliff-01dfec010.7.azurestaticapps.net
+0.0.0.0 thehaider.com
 0.0.0.0 theholidayroads.com
 0.0.0.0 themaintechnician.us
 0.0.0.0 thementordirectory.com
@@ -449,7 +437,6 @@
 0.0.0.0 tobecation.github.io
 0.0.0.0 toolshare.com.tr
 0.0.0.0 top8onlinegame.com
-0.0.0.0 topmark-tuitioncentre.co.uk
 0.0.0.0 tpp.om-stock.com
 0.0.0.0 tr.zhzy999.net
 0.0.0.0 transparenciacanaa.com.br
@@ -461,6 +448,7 @@
 0.0.0.0 upaicdn.xinmei365.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 update.cg100iii.com
+0.0.0.0 users.atw.hu
 0.0.0.0 vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com
 0.0.0.0 vaibhavtripathi.in
 0.0.0.0 versaclean.com.br

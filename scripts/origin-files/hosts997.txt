@@ -9,7 +9,6 @@
 127.0.0.1 ads.huantest.com
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ads.wteam.xyz
-127.0.0.1 adservice.sigmob.cn
 127.0.0.1 adtechus.com
 127.0.0.1 adtrue.com
 127.0.0.1 adxprtz.com
